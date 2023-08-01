@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: "AmbraBlackI";
+  src: url("../src/assets/fonts/Ambra-Sans-Black-Italic-trial.ttf") format("truetype");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+  font-family: "AmbraBlack";
+  src: url("../src/assets/fonts/Ambra-Sans-Black-trial.ttf") format("truetype");
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: "AmbraHeavyI";
+  src: url("../src/assets/fonts/Ambra-Sans-Heavy-Italic-trial.ttf") format("truetype");
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: "AmbraHeavy";
+  src: url("../src/assets/fonts/Ambra-Sans-Heavy-trial.ttf") format("truetype");
 }
 
-.App-link {
-  color: #61dafb;
+@font-face {
+  font-family: "AmbraLight";
+  src: url("../src/assets/fonts/Ambra-Sans-Light-trial.ttf") format("truetype");
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@font-face {
+  font-family: "AmbraMediumI";
+  src: url("../src/assets/fonts/Ambra-Sans-Medium-Italic-trial.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "AmbraMedium";
+  src: url("../src/assets/fonts/Ambra-Sans-Medium-trial.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "AmbraMediumTI";
+  src: url("../src/assets/fonts/Ambra-Sans-Text-Medium-Italic-trial.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lemon";
+  src: url("../src/assets/fonts/ComicLemon.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DailyPeace";
+  src: url("../src/assets/fonts/DailyPeace-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Farmhouse";
+  src: url("../src/assets/fonts/FarmhouseChildren.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "FigTreeB";
+  src: url("../src/assets/fonts/Figtree-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FigTree";
+  src: url("../src/assets/fonts/Figtree-Regular.ttf") format("truetype");
+}
+
+html{
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
 }

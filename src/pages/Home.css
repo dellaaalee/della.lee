@@ -1,0 +1,36 @@
+.intro {
+    padding-top: 10vh;
+}
+
+
+.typewriter {
+    font-family: "AmbraMediumI";
+    font-size: 3.5vh;
+    padding-left: 16vh;
+
+}
+
+.myname {
+    font-family: 'Lemon';
+    font-size: 14vh;
+    padding-left: 14vh;
+}
+
+.desc {
+    font-family: 'AmbraMedium';
+    font-size: 3.6vh;
+    padding-left: 14vh;
+    padding-right: 15vh;
+}
+
+
+.introWriting {
+    /* background-color: pink; */
+    padding-top: 6rem;
+    padding-left: 30vh;
+}
+
+.introImg {
+    /* background-color: lightblue; */
+    padding-top: 8vh;
+}

@@ -1,0 +1,61 @@
+.experienceTitle {
+    display: flex;
+    width: 60%;
+    justify-content:center;
+    margin:0 auto;
+    font-family: 'Lemon';
+    font-size: 4vh;
+    padding-top: 24vh;
+}
+
+.projectRow {
+    padding-top: 1vh;
+    padding-bottom: 10vh;;
+    padding-left: 5vh;
+    padding-right: 5vh;
+
+
+}
+
+
+.dellalee {
+    background-color: bisque;
+}
+
+
+.experienceBox {
+
+    padding-left: 2.3rem;
+    padding-top: 0.3rem;
+    margin-right: 15vh;
+}
+
+
+
+.experiencePos {
+    font-family: 'AmbraBlack';
+    font-size: 23px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+.colorPink {
+    color: pink;
+}
+
+.experienceDate {
+    font-family: 'FigTreeI';
+    padding-top: 1vh;
+}
+
+.experienceDesc {
+    font-family: 'FigTree';
+    padding-top: 0.6rem;
+    font-size: 2.5vh;
+}
+
+
+.datainterndesc {
+    font-family: 'FigTreeB';
+}
