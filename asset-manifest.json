@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/della.lee/static/css/main.073c9b0a.css",
-    "main.js": "/della.lee/static/js/main.aae2b8f4.js",
+    "main.css": "/della.lee/static/css/main.af097123.css",
+    "main.js": "/della.lee/static/js/main.13a9691e.js",
     "static/js/787.856341cf.chunk.js": "/della.lee/static/js/787.856341cf.chunk.js",
-    "static/media/logo.svg": "/della.lee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/work_img.png": "/della.lee/static/media/work_img.10a2206020f3c85a6b46.png",
+    "static/media/Ambra-Sans-Heavy-trial.ttf": "/della.lee/static/media/Ambra-Sans-Heavy-trial.6e8958cf249d60103e90.ttf",
+    "static/media/Ambra-Sans-Black-trial.ttf": "/della.lee/static/media/Ambra-Sans-Black-trial.f4625c8d14718da48ef6.ttf",
+    "static/media/Ambra-Sans-Heavy-Italic-trial.ttf": "/della.lee/static/media/Ambra-Sans-Heavy-Italic-trial.e8394f640bf5ebf843c5.ttf",
+    "static/media/Ambra-Sans-Black-Italic-trial.ttf": "/della.lee/static/media/Ambra-Sans-Black-Italic-trial.432f414c2e9f87eae7f1.ttf",
+    "static/media/Ambra-Sans-Medium-Italic-trial.ttf": "/della.lee/static/media/Ambra-Sans-Medium-Italic-trial.05f2d8f838c608b898ce.ttf",
+    "static/media/Ambra-Sans-Medium-trial.ttf": "/della.lee/static/media/Ambra-Sans-Medium-trial.6f9a0c3a2cd653c31ec1.ttf",
+    "static/media/Ambra-Sans-Text-Medium-Italic-trial.ttf": "/della.lee/static/media/Ambra-Sans-Text-Medium-Italic-trial.0a57bf42fd3f442f6747.ttf",
+    "static/media/Ambra-Sans-Light-trial.ttf": "/della.lee/static/media/Ambra-Sans-Light-trial.3fc7d46dda066fd1c6d8.ttf",
+    "static/media/FarmhouseChildren.otf": "/della.lee/static/media/FarmhouseChildren.9895ca1a219f70f70866.otf",
+    "static/media/DailyPeace-Bold.otf": "/della.lee/static/media/DailyPeace-Bold.fb0ad14d76213547883e.otf",
+    "static/media/Figtree-Bold.ttf": "/della.lee/static/media/Figtree-Bold.5ed5b31f2068fe71d1a6.ttf",
+    "static/media/Figtree-Regular.ttf": "/della.lee/static/media/Figtree-Regular.8f795d10bc54ef8d0b61.ttf",
+    "static/media/ComicLemon.ttf": "/della.lee/static/media/ComicLemon.50b936d6afd3179f454c.ttf",
     "index.html": "/della.lee/index.html",
-    "main.073c9b0a.css.map": "/della.lee/static/css/main.073c9b0a.css.map",
-    "main.aae2b8f4.js.map": "/della.lee/static/js/main.aae2b8f4.js.map",
+    "main.af097123.css.map": "/della.lee/static/css/main.af097123.css.map",
+    "main.13a9691e.js.map": "/della.lee/static/js/main.13a9691e.js.map",
     "787.856341cf.chunk.js.map": "/della.lee/static/js/787.856341cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.aae2b8f4.js"
+    "static/css/main.af097123.css",
+    "static/js/main.13a9691e.js"
   ]
 }
